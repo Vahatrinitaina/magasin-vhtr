@@ -31,7 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 ### `npm install -g json-server` 
-install it if you want to fake a local server for crud operations... To lauch it, you may also run ### ``npm run start:api`
+install it if you want to fake a local server for crud operations... To lauch it, you may also run ### `npm run start:api`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
