@@ -1,0 +1,435 @@
+{
+  "produits": [
+    {
+      "id": 2,
+      "name": "Kitay lafo bet",
+      "marque": "Gigatecpo",
+      "prix": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
+      "types": [
+        "Outillage",
+        "Outil",
+        "Tuyauterie",
+        "Chantier"
+      ],
+      "details": "commentaires a remplir",
+      "dimensions": "700 X 800",
+      "couleurs": [
+        "Gris clair",
+        "Noir",
+        "Bleue"
+      ],
+      "pres": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 4,
+      "name": "tady",
+      "marque": "Bamboo",
+      "prix": 23,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png",
+      "types": [
+        "Outil",
+        "Chantier",
+        "Vaissellerie"
+      ],
+      "details": "commentaires a remplir",
+      "dimensions": "800 X 300",
+      "couleurs": [
+        "Noir",
+        "Vert",
+        "Bleue"
+      ],
+      "pres": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 5,
+      "name": "hazobe",
+      "marque": "Varatra",
+      "prix": 55,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png",
+      "types": [
+        "Constuction habitat",
+        "Outil",
+        "Normal"
+      ],
+      "details": "commentaires a remplir",
+      "dimensions": "100 X 300",
+      "couleurs": [
+        "Blanc",
+        "Vert",
+        "Rouge"
+      ],
+      "pres": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 6,
+      "name": "fil de fer",
+      "marque": "Chipsland",
+      "prix": 1,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png",
+      "types": [
+        "Normal",
+        "Tuyauterie"
+      ],
+      "details": "commentaires a remplir",
+      "dimensions": "600 X 500",
+      "couleurs": [
+        "Vert",
+        "Jaune",
+        "Rouge"
+      ],
+      "pres": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 7,
+      "name": "tuyau",
+      "marque": "Badoo",
+      "prix": 89,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png",
+      "details": "commentaires a remplir",
+      "dimensions": "800 X 500",
+      "couleurs": [
+        "Noir",
+        "Vert",
+        "Rouge"
+      ],
+      "types": [
+        "Normal",
+        "Tuyauterie"
+      ],
+      "pres": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 8,
+      "name": "Lampe LED",
+      "marque": "Badoo",
+      "prix": 66,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png",
+      "types": [
+        "Electricite"
+      ],
+      "details": "commentaires a remplir",
+      "dimensions": "900 X 800",
+      "couleurs": [
+        "Blanc",
+        "Rouge",
+        "Jaune"
+      ],
+      "pres": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 9,
+      "name": "douille",
+      "marque": "chipsland",
+      "prix": 57,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+      "types": [
+        "Electricite"
+      ],
+      "details": "commentaires a remplir",
+      "dimensions": "300 X 700",
+      "couleurs": [
+        "Bleue",
+        "Vert",
+        "Rouge"
+      ],
+      "pres": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 10,
+      "name": "Cuvette",
+      "marque": "Varatra",
+      "prix": 46,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png",
+      "details": "commentaires a remplir",
+      "dimensions": "600 X 200",
+      "couleurs": [
+        "Bleue",
+        "Vert",
+        "Blanc"
+      ],
+      "types": [
+        "Outillage",
+        "Outil",
+        "Normal"
+      ],
+      "pres": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 11,
+      "name": "Tasse",
+      "marque": "Aurlac",
+      "prix": 22,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png",
+      "types": [
+        "Vaissellerie",
+        "Tuyauterie",
+        "Normal"
+      ],
+      "details": "commentaires a remplir",
+      "dimensions": "900 X 300",
+      "couleurs": [
+        "Gris clair",
+        "Rouge",
+        "Jaune"
+      ],
+      "pres": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 12,
+      "name": "Tournevis",
+      "marque": "Bamboo",
+      "prix": 81,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
+      "types": [
+        "Normal",
+        "Outil",
+        "Electricite"
+      ],
+      "details": "commentaires a remplir",
+      "dimensions": "500 X 500",
+      "couleurs": [
+        "Jaune",
+        "Vert",
+        "Noir"
+      ],
+      "pres": "Loreme Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 1657708084774,
+      "prix": 0,
+      "name": "name",
+      "marque": "marque",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/125.png",
+      "types": [
+        "Normal",
+        "Outillage",
+        "Chantier"
+      ],
+      "details": "details",
+      "dimensions": "000 X 000",
+      "couleurs": [
+        "Blanc",
+        "Bleue",
+        "Rouge"
+      ],
+      "pres": "pres"
+    },
+    {
+      "id": 1657710213008,
+      "prix": 0,
+      "name": "name",
+      "marque": "marque",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/163.png",
+      "types": [
+        "Normal"
+      ],
+      "details": "details",
+      "dimensions": "000 X 000",
+      "couleurs": [
+        "Blanc"
+      ],
+      "pres": "pres"
+    },
+    {
+      "id": 1657722133233,
+      "prix": "456",
+      "name": "essaie",
+      "marque": "marqueere",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/143.png",
+      "types": [
+        "Peinture",
+        "Bois",
+        "Outillage mettalique"
+      ],
+      "details": "details",
+      "dimensions": "000 X 005",
+      "couleurs": [
+        "Blanc"
+      ],
+      "pres": "pres"
+    },
+    {
+      "id": 1657783407850,
+      "prix": 0,
+      "name": "name erewrw",
+      "marque": "marque",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/165.png",
+      "types": [
+        "Normal",
+        "Chantier"
+      ],
+      "details": "details",
+      "dimensions": "000 X 001",
+      "couleurs": [
+        "Blanc"
+      ],
+      "pres": " erere"
+    },
+    {
+      "id": 1657783526307,
+      "prix": 0,
+      "name": "tejrt",
+      "marque": "marque",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/125.png",
+      "types": [
+        "Normal"
+      ],
+      "details": "details",
+      "dimensions": "000 X 000",
+      "couleurs": [
+        "Blanc"
+      ],
+      "pres": "pres"
+    },
+    {
+      "id": 1657783550915,
+      "prix": "457",
+      "name": "nameop",
+      "marque": "marqueop",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/125.png",
+      "types": [
+        "Normal",
+        "Chantier",
+        "Outil"
+      ],
+      "details": "details",
+      "dimensions": "789 X 425",
+      "couleurs": [
+        "Blanc",
+        "Rouge",
+        "Bleue"
+      ],
+      "pres": "itoe doure"
+    },
+    {
+      "id": 1657783628306,
+      "prix": "85",
+      "name": "pouubelle",
+      "marque": "marque",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/183.png",
+      "types": [
+        "Normal",
+        "Peinture",
+        "Outillage mettalique",
+        "Chantier"
+      ],
+      "details": "details",
+      "dimensions": "000 X 058",
+      "couleurs": [
+        "Blanc",
+        "Noir",
+        "Jaune"
+      ],
+      "pres": "pres"
+    },
+    {
+      "id": 1657786081316,
+      "prix": 0,
+      "name": "name",
+      "marque": "marque",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/121.png",
+      "types": [
+        "Normal",
+        "Chantier"
+      ],
+      "details": "details",
+      "dimensions": "000 X 000",
+      "couleurs": [
+        "Blanc"
+      ],
+      "pres": "pres"
+    },
+    {
+      "id": 1657802618286,
+      "prix": "82",
+      "name": "Peter Pan",
+      "marque": "marque",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/201.png",
+      "types": [
+        "Normal"
+      ],
+      "details": "details",
+      "dimensions": "000 X 000",
+      "couleurs": [
+        "Blanc"
+      ],
+      "pres": "pres"
+    },
+    {
+      "id": 1658300045934,
+      "prix": 0,
+      "name": "nameere",
+      "marque": "marquewz",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/162.png",
+      "types": [
+        "Normal",
+        "Electricite",
+        "Construction habitat",
+        "Chantier"
+      ],
+      "details": "details",
+      "dimensions": "004 X 009",
+      "couleurs": [
+        "Blanc",
+        "Noir",
+        "Vert"
+      ],
+      "pres": "pres efez hhhr"
+    },
+    {
+      "id": 1660035781294,
+      "prix": 0,
+      "name": "name",
+      "marque": "marque",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/145.png",
+      "types": [
+        "Normal"
+      ],
+      "details": "details",
+      "dimensions": "000 X 000",
+      "couleurs": [
+        "Blanc"
+      ],
+      "pres": "pres"
+    },
+    {
+      "id": 1661416030977,
+      "prix": "52",
+      "name": "nameewq",
+      "marque": "shell",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/253.png",
+      "types": [
+        "Normal",
+        "Bois",
+        "Chantier"
+      ],
+      "details": "details",
+      "dimensions": "362 X 456",
+      "couleurs": [
+        "Blanc",
+        "Rouge",
+        "Bleue"
+      ],
+      "pres": "pres"
+    },
+    {
+      "id": 1667984311062,
+      "prix": "43",
+      "name": "namee",
+      "marque": "marque",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/159.png",
+      "types": [
+        "Normal"
+      ],
+      "details": "details",
+      "dimensions": "000 X 000",
+      "couleurs": [
+        "Blanc"
+      ],
+      "pres": "pres",
+      "sary": "",
+      "imUrl": ""
+    }
+  ]
+}

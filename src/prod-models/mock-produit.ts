@@ -1,0 +1,162 @@
+import Produit from './produit';
+   
+export const PRODUITS: Produit[] = [
+ {
+  id: 1,
+  name: "Loko gasy",
+  marque: "Aurlac",
+  prix:100,
+  picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png",
+  types: ["Peinture"],
+  created: new Date(),
+  details: "commentaires a remplir",
+  dimensions: '500 X 500',
+  couleurs: ['rouge', 'vert', 'jaune'],
+  pres: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+ },
+ {
+  id: 2,
+  name: "Kitay lafo",
+  marque: "Gigatec",
+  prix:10,
+  picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
+  types: ["Bois"],
+  created: new Date(),
+  details: "commentaires a remplir",
+  dimensions: '700 X 800',
+  couleurs: ['gris', 'noir', 'bleue'],
+  pres: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+ },
+ {
+  id: 3,
+  name: "briquet",
+  marque: "Paratel",
+  prix:50,
+  picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png",
+  types: ["Utilitaire cuisine"],
+  created: new Date(),
+  details: "commentaires a remplir",
+  dimensions: '900 X 500',
+  couleurs: ['noir', 'blanc', 'jaune'],
+  pres: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+ },
+ {
+  id: 4,
+  name: "tady",
+  marque: "Bamboo",
+  prix:23,
+  picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png",
+  types: ["Outil", "Chantier"],
+  created: new Date(),
+  details: "commentaires a remplir",
+  dimensions: '800 X 300',
+  couleurs: ['noir', 'vert', 'bleue'],
+  pres: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+ },
+ {
+  id: 5,
+  name: "hazobe",
+  marque: "Varatra",
+  prix:55,
+  picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png",
+  types: ["Constuction habitat", "Outillage mettalique"],
+  created: new Date(),
+  details: "commentaires a remplir",
+  dimensions: '100 X 300',
+  couleurs: ['blanc', 'vert', 'rouge'],
+  pres: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+ },
+ {
+  id: 6,
+  name: "fil de fer",
+  marque: "Chipsland",
+  prix:1,
+  picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png",
+  types: ["Normal"],
+  created: new Date(),
+  details: "commentaires a remplir",
+  dimensions: '600 X 500',
+  couleurs: ['bleue', 'vert', 'jaune'],
+  pres: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+ },
+ {
+  id: 7,
+  name: "tuyau",
+  marque: "Badoo",
+  prix:89,
+  picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png",
+  types: ["Normal", "Tuyauterie"],
+  created: new Date(),
+  details: "commentaires a remplir",
+  dimensions: '800 X 500',
+  couleurs: ['noir', 'vert', 'rouge'],
+  pres: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+ },
+ {
+  id: 8,
+  name: "Lampe LED",
+  marque: "Badoo",
+  prix:66,
+  picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png",
+  types: ["Electricite"],
+  created: new Date(),
+  details: "commentaires a remplir",
+  dimensions: '900 X 800',
+  couleurs: ['blanc', 'rouge', 'jaune'],
+  pres: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+ },
+ {
+  id: 9,
+  name: "douille",
+  marque: "chipsland",
+  prix:57,
+  picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+  types: ["Electricite"],
+  created: new Date(),
+  details: "commentaires a remplir",
+  dimensions: '300 X 700',
+  couleurs: ['bleue', 'vert', 'rouge'],
+  pres: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+ },
+ {
+  id: 10,
+  name: "Cuvette",
+  marque: "Varatra",
+  prix:46,
+  picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png",
+  types: ["Normal"],
+  created: new Date(),
+  details: "commentaires a remplir",
+  dimensions: '600 X 200',
+  couleurs: ['bleue', 'vert', 'blanc'],
+  pres: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+ },
+ {
+  id: 11,
+  name: "Tasse",
+  marque: "Aurlac",
+  prix:22,
+  picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png",
+  types: ["Vaissellerie"],
+  created: new Date(),
+  details: "commentaires a remplir",
+  dimensions: '900 X 300',
+  couleurs: ['gris', 'rouge', 'jaune'],
+  pres: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+ },
+ {
+  id: 12,
+  name: "Tournevis",
+  marque: "Bamboo",
+  prix:81,
+  picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
+  types: ["Outillage"],
+  created: new Date(),
+  details: "commentaires a remplir",
+  dimensions: '500 X 500',
+  couleurs: ['jaune', 'vert', 'noir'],
+  pres: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+ }
+];
+  
+export default PRODUITS;
